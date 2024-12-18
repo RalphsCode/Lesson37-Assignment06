@@ -1,3 +1,10 @@
+# Ralph's Box Squares App.
+
+Create and remove colored boxes of various sizes.
+
+Built with:
+React, JS, React Forms, React Props, useState, CRA.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

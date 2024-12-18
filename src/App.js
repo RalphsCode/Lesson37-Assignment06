@@ -5,7 +5,7 @@ import BoxList from './BoxList';
 function App() {
   return (
     <div className="App">
-        RalphsCode BoxList App
+        <h1>RalphsCode BoxList App</h1>
         <div>
         <BoxList />
       </div>
